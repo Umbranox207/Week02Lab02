@@ -23,7 +23,7 @@ public class MainPageServlet extends HttpServlet {
         //includes user and username
         //logout hyperlink to LoginServlet and display you have been logged out
         String username = request.getParameter("username");
-        getServletContext().getRequestDispatcher("/WEB-INF/login.jsp").forward(request, response);
+        getServletContext().getRequestDispatcher("/index.jsp").forward(request, response);
         
     }
 

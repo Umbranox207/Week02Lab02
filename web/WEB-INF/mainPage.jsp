@@ -1,5 +1,5 @@
 <%-- 
-    Document   : mainPage
+    Document   : index.jsp
     Created on : Sep 18, 2017, 1:28:17 PM
     Author     : 740991
 --%>
